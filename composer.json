@@ -1,0 +1,16 @@
+{
+    "name": "jmleroy/sparta",
+    "description": "A set of classes to manage a sports team's data",
+    "type": "library",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Jean-Marc Leroy",
+            "email": "jmleroy@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "codeception/codeception": "^2.3"
+    }
+}
